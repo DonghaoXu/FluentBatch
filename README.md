@@ -34,7 +34,7 @@ SimSlave.main(cores=Ncores)
 $ python go.py ./template.jou ./BC.json 24
 ```
 
-Finally, tell your batcher the job number given by pbs.
+Finally, tell your batcher the job number given by pbs and wait for the jobs to be finished and killed.
 ``` sh
 $ python go.py ./template.jou ./BC.json 24
 111.GXM
