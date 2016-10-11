@@ -1,5 +1,5 @@
 # FluentBatch
-An automatic tool to generate Fluent journal files and submit jobs to clusters through pbs. 
+FluentBatch is an automatic tool to generate Fluent journal files and submit jobs to clusters through pbs. It can automatically generate journal files for one case using different boundary conditions. Therefore, it is highly efficient in dealing with parametric studies.
 
 ### Usage
 First, prepare a journal template.
